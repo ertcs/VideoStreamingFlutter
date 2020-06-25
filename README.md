@@ -2,6 +2,17 @@
 
 Flutter App sample for video streaming
 
+![Alt text](https://github.com/ertcs/VideoStreamingFlutter/blob/master/screenshots/Screenshot_2020-06-25-15-44-17.jpg)
+![Alt text](https://github.com/ertcs/VideoStreamingFlutter/blob/master/screenshots/Screenshot_2020-06-25-15-44-35.jpg)
+![Alt text](https://github.com/ertcs/VideoStreamingFlutter/blob/master/screenshots/Screenshot_2020-06-25-15-44-39.jpg)
+![Alt text](https://github.com/ertcs/VideoStreamingFlutter/blob/master/screenshots/Screenshot_2020-06-25-15-44-47.jpg)
+![Alt text](https://github.com/ertcs/VideoStreamingFlutter/blob/master/screenshots/Screenshot_2020-06-25-15-44-56.jpg)
+![Alt text](https://github.com/ertcs/VideoStreamingFlutter/blob/master/screenshots/Screenshot_2020-06-25-15-45-26.jpg)
+
+
+![Watch the video](https://img.youtube.com/vi/RouxiZwHO34/maxresdefault.jpg)](https://youtu.be/RouxiZwHO34)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
